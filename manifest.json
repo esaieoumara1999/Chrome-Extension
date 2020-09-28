@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Esaie Launcher",
+    "description":"Quick Lunch Esaie Media",
+    "version": "1.0.0",
+    "icons": { "128": "Raccourcis.png" },
+    "browser_action": {
+        "default_icon": "Raccourcis.png",
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab"]
+}
